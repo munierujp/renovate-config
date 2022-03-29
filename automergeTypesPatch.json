@@ -4,12 +4,8 @@
       "matchPackagePatterns": [
         "^@types/"
       ],
-      "automerge": true,
-      "major": {
-        "automerge": false
-      },
-      "minor": {
-        "automerge": false
+      "patch": {
+        "automerge": true
       }
     }
   ]
