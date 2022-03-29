@@ -6,5 +6,6 @@
     ":separatePatchReleases",
     ":unknown-preset-for-testing-validation-error"
   ],
-  "prTitle": "PR title"
+  "prTitle": "PR title",
+  "commitMessage": "{{{something}}"
 }
