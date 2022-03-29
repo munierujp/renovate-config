@@ -3,9 +3,6 @@
     "config:base",
     ":automergePatch",
     ":separateMultipleMajorReleases",
-    ":separatePatchReleases",
-    ":unknown-preset-for-testing-validation-error"
-  ],
-  "prTitle": "PR title",
-  "commitMessage": "{{{something}}"
+    ":separatePatchReleases"
+  ]
 }
