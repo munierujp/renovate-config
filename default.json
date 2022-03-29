@@ -1,6 +1,7 @@
 {
   "extends": [
     "config:base",
+    ":separateMultipleMajorReleases",
     "github>munierujp/renovate-config:automergeTypesPatch",
   ],
   "labels": [
