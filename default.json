@@ -3,6 +3,7 @@
     "config:base",
     ":automergePatch",
     ":separateMultipleMajorReleases",
-    ":separatePatchReleases"
+    ":separatePatchReleases",
+    ":unknown-preset-for-testing-validation-error"
   ]
 }
