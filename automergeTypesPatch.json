@@ -1,0 +1,16 @@
+{
+  "packageRules": [
+    {
+      "matchPackagePatterns": [
+        "^@types/"
+      ],
+      "automerge": true,
+      "major": {
+        "automerge": false
+      },
+      "minor": {
+        "automerge": false
+      }
+    }
+  ]
+}
